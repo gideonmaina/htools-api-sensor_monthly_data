@@ -1,0 +1,5 @@
+#INSTALLATION
+npm install
+
+#SETTING ENVINROMENT VARIABLE
+node index
